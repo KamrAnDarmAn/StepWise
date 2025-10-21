@@ -1,0 +1,9 @@
+{
+  "/(root)/about/page": "/about",
+  "/(root)/binary-search/page": "/binary-search",
+  "/(root)/merge-sort/page": "/merge-sort",
+  "/(root)/page": "/",
+  "/(root)/quick-sort/page": "/quick-sort",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico"
+}

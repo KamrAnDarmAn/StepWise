@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "/(root)/merge-sort/page": [
+      "static/chunks/4a570052309a0fc0.js",
+      "static/chunks/cfce8cf53e8203ae.js",
+      "static/chunks/147f5723fe207c63.css",
+      "static/chunks/6a23f8c9e03d781e.js",
+      "static/chunks/12c98a62e83d95ad.js",
+      "static/chunks/4699ce06eb901284.js",
+      "static/chunks/df2762b39b6c4a87.js",
+      "static/chunks/34586e824f368b4c.js",
+      "static/chunks/32964467809ff0a6.js",
+      "static/chunks/37966ee146ba9059.js",
+      "static/chunks/21dd9d86af253d5a.js",
+      "static/chunks/7b4de8406c498e07.js",
+      "static/chunks/9a1be1685a6e874d.js",
+      "static/chunks/turbopack-d822672e2322dfb2.js"
+    ]
+  }
+}
