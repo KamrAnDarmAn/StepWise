@@ -27,7 +27,7 @@ const Navbar = () => {
             <div className='mx-auto max-w-6xl px-4 py-3 flex items-center justify-between'>
                 <div className='flex items-center gap-3'>
                     <Link href='/' className='font-semibold tracking-tight text-blue-500 font-bold text-xl '>StepWise</Link>
-                    <nav className='hidden md:flex items-center gap-4 text-sm text-muted-foreground'>
+                    <nav className=' md:flex items-center gap-4 text-sm text-muted-foreground'>
                         {
                             navItems.map(route => (
 
@@ -37,7 +37,7 @@ const Navbar = () => {
                     </nav>
                 </div>
                 <div className='flex items-center gap-2'>
-                    <Link href='https://github.com/KamrAnDarmAn' target='_blank' aria-label='GitHub'>
+                    <Link href='https://github.com/KamrAnDarmAn/StepWise.git' target='_blank' aria-label='GitHub'>
                         <Button variant={'ghost'} size={'icon'}>
                             <Github className='h-5 w-5' />
                         </Button>

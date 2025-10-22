@@ -205,7 +205,7 @@ const About = () => {
                                     size="lg"
                                     variant="outline"
                                     className="border-blue-600 text-blue-600 hover:bg-blue-50 dark:hover:bg-blue-950/50"
-                                    onClick={() => window.open('https://github.com/KamrAnDarmAn/dsa-visualizer', '_blank')}
+                                    onClick={() => window.open('https://github.com/KamrAnDarmAn/StepWise', '_blank')}
                                 >
                                     Contribute on GitHub
                                 </Button>
